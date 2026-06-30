@@ -1,4 +1,6 @@
 class Calc:
+    def getZegop(self, a):
+        return a*a
     def get_gop(self, a, b):
         return a * b
 
