@@ -4,3 +4,5 @@ class Calc:
 
     def get_sum_sum(self, a, b, c):
         return a + b + c
+    def get_minus(self, a, b):
+        return a - b
