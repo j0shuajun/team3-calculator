@@ -19,8 +19,8 @@ from main import Calc
 
 def test_get_divide():
     calc = Calc()
-    assert calc.getDivide(4, 2) == 2
-    assert calc.getDivide(4, 0) == 0
+    assert calc.get_divide(4, 2) == 2
+    assert calc.get_divide(4, 0) == 0
     
 
 @pytest.mark.parametrize("a,b,res", [(2, 3, 6), (12, 12, 144)])
