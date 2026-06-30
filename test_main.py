@@ -2,7 +2,6 @@ import pytest
 
 from main import Calc
 
-
 def test_sample():
     assert 1 == 1
     pytest.fail()
