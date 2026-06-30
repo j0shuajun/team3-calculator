@@ -1,9 +1,4 @@
-import pytest
-
 class Calc:
-    pass
+    def getZegop(self, a):
+        return a*a
 
-
-def test_sample():
-    assert 1 == 1
-    pytest.fail()
