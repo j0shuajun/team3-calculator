@@ -6,6 +6,9 @@ class Calc:
             print("Divide by zero")
             return 0
           
+    def getZegop(self, a):
+        return a*a
+
     def get_gop(self, a, b):
         return a * b
 
