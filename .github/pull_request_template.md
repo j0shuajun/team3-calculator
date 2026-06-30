@@ -4,6 +4,8 @@
 - 변경사항 1 (`bbb.py`)
 - 변경사항 2 (`/tests/test_bbb.py`)
 -->
+- 변경사항 1 (`bbb.py`)
+- 변경사항 2 (`/tests/test_bbb.py`)
 
 # 체크리스트
 
