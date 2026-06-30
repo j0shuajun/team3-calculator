@@ -1,3 +1,3 @@
 class Calc:
-    def getMinus(self, a, b):
+    def get_minus(self, a, b):
         return a - b

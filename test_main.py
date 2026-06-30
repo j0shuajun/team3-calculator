@@ -9,4 +9,4 @@ def test_sample():
 
 def test_get_minus():
     calc = Calc()
-    assert calc.getMinus(1, 2) == -1
+    assert calc.get_minus(1, 2) == -1
