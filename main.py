@@ -1,2 +1,3 @@
 class Calc:
-    pass
+    def get_gop(self, a, b):
+        return a * b
