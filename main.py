@@ -1,5 +1,5 @@
 class Calc:
-    def getDivide(self, a, b):
+    def get_divide(self, a, b):
         try:
             return a / b
         except ZeroDivisionError:
